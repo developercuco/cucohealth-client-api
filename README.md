@@ -9,8 +9,8 @@ Created with [JSON Server](https://www.npmjs.com/package/json-server).
 **Clone o repositório**
 
 ```
-$ git clone https://github.com/cucohealth-clients-api.git
-$ cd cucohealth-clients-api
+$ git clone https://github.com/developercuco/cucohealth-client-api.git
+$ cd cucohealth-client-api
 ```
 
 **Instale as dependências**
@@ -27,7 +27,7 @@ $ npm run start
 
 ## Documentação
 
-Postman Collection: [CUCOHealth - Clients API.postman_collection.json](#)
+Postman Collection: [Cuco Health API - Desafio Front End.postman_collection.json](https://www.getpostman.com/collections/a82785d1574104c4e828)
 
 **Rotas**
 
